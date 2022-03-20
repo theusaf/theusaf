@@ -1,7 +1,7 @@
 ### Hi there! I'm theusaf. I do stuff in JavaScript.
-![theusaf's github stats](https://github-readme-stats.vercel.app/api?username=theusaf&theme=algolia)
+![theusaf's github stats](https://github-readme-stats.vercel.app/api?username=theusaf&theme=algolia&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theusaf&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theusaf&theme=algolia&count_private=true)
 
 ### Top Projects:
 |Name|About|
