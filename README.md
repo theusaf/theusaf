@@ -6,5 +6,6 @@
 ### Top Projects:
 |Name|About|
 |-|-|
-|Kahoot Antibot|A Kahoot! extension for keeping a Kahoot! game bot-free|
-|PreMiD Presences|I have made the XKCD and the Town of Salem Discord presences|
+|[Kahoot Antibot](https://github.com/theusaf/kantibot)|A Kahoot! extension for keeping a Kahoot! game bot-free|
+|[PreMiD Presences](https://premid.app/users/193714715631812608)|I have made the XKCD and the Town of Salem Discord presences|
+|[mcfunction-lang](https://github.com/theusaf/mcfunction-lang)|A mcfunction syntax highlighter and autocomplete package for Atom|
